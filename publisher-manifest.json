@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "95ecff429a82f5151e7c15f4",
+  "owner": "urjypeggv",
+  "repo": "page-08e348f7a3d5b8f66aa746b2",
+  "title": "GLaDOS",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "08e348f7a3d5b8f66aa746b2",
+      "a": "GLaDOS",
+      "b": "2027官方最新地址导航",
+      "entity": "GLaDOS",
+      "brand": "GLaDOS",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "f253bde1240b0e64cade53986f35fa42f80e3dac02068df899c7a04506702c48",
+      "content": {
+        "primary_entity": "GLaDOS",
+        "keyword1": "GLaDOS",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，导入订阅即可使用。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选套餐、配客户端、导入订阅，三步开启稳定连接。",
+          "AI_CLOSING_TITLE": "开始使用 GLaDOS",
+          "AI_DESCRIPTION": "，面向需要海外加速的用户提供订阅制节点服务。基础版适合个人日常浏览，旗舰版增加 IPLC 专线与流媒体解锁，团队版支持 20 台设备与定制路由。按月或按年付费，依客户端文档完成订阅导入即可开始使用。",
+          "AI_FEATURES_INTRO": "从套餐、设备与周期三个角度了解 GLaDOS 的订阅方式。",
+          "AI_FEATURES_TITLE": "订阅特性",
+          "AI_FEATURE_TEXT_1": "基础版每 30 天 100GB、3 台设备；旗舰版 300GB、5 台设备；团队版 1000GB、20 台设备。",
+          "AI_FEATURE_TEXT_2": "旗舰版提供 IPLC 专线游戏加速优化与全节点原生流媒体解锁，适合对延迟敏感的使用场景。",
+          "AI_FEATURE_TEXT_3": "支持按年付，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，长期使用更省。",
+          "AI_FEATURE_TITLE_1": "套餐梯度分明",
+          "AI_FEATURE_TITLE_2": "专线加速优化",
+          "AI_FEATURE_TITLE_3": "灵活计费周期",
+          "AI_GUIDE_INTRO": "选择服务、查看适配要求、依客户端文档配置订阅。",
+          "AI_GUIDE_TITLE": "三步使用流程",
+          "AI_HERO_INTRO": "GLaDOS 是一款面向海外加速的订阅制节点服务，提供基础版、旗舰版与团队版三档套餐。用户可按设备数量与流量需求选择订阅，通过客户端导入订阅即可使用，支持按月或按年付费。",
+          "AI_HERO_SUBTITLE": "按需选择海外加速订阅",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线加速",
+          "AI_HIGHLIGHT_3": "支持按月或按年灵活付费",
+          "AI_PLANS_INTRO": "基础版 100GB/月适合轻度浏览，旗舰版 300GB/月含专线优化，团队版 1000GB/月支持 20 台设备。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量与同时在线设备数量，在基础版、旗舰版、团队版中选择合适的订阅。",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端类型，查看该客户端对订阅配置的适配要求。",
+          "AI_STEP_TEXT_3": "依照所使用客户端的文档说明，将订阅链接导入并完成节点配置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "GLaDOS 海外加速订阅",
+          "AI_FAQ_ANSWER_1": "基础版每月 15 元，按年付 150 元，含 100GB 流量与 3 台设备。适合轻度浏览与基础流媒体需求。",
+          "AI_FAQ_ANSWER_2": "旗舰版支持 5 台，团队版支持 20 台。如需更多设备同时在线，可在套餐内叠加或选择更高档位。",
+          "AI_FAQ_ANSWER_3": "客户端地址与订阅链接由系统在购买后提供，按客户端文档导入订阅即可。不同系统可选用对应版本。",
+          "AI_FAQ_ANSWER_4": "基础版提供普通线路节点池，旗舰版包含 IPLC 专线游戏加速优化，团队版提供 VIP 专属高带宽节点。",
+          "AI_FAQ_ANSWER_5": "月付与年付可灵活选择，年付方案分别是 150 元、350 元与 850 元，适合长期使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版包含哪些权益？",
+          "AI_FAQ_QUESTION_2": "最多支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_3": "如何获取客户端并导入订阅？",
+          "AI_FAQ_QUESTION_4": "不同套餐的节点线路有什么区别？",
+          "AI_FAQ_QUESTION_5": "按月付还是按年付更合适？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "geflccn.cn",
+    "host": "geflccn.cn"
+  },
+  "file_hashes": {
+    "index.html": "f9aa04cc9f78d9216af54658fc99dabba888f1aae9559e8903b153b2a3cc6a4f",
+    "sitemap.xml": "946cc9bae3e3655310c0319b0bf8eef2f96b016dbcc9a35185b322594e29ced7",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "0b88803bd7e8ec758ad85ca0d9978e149798f751686d67c1e180195df500ce59",
+    "robots.txt": "63af97bacee334309c96bf7577f20522233996a025b56e2f97beeeabc9c75873",
+    "f766a2eb990ae1b8f17b20b5ad241ae8.txt": "c6dea30050a4ac84ea8ceca1d03c3c83ed3d3bbd6475c244fa7272ff3bf0bb66"
+  },
+  "revision": "26dad2636aacba60a321185340a851c80f86e772e4cb7a583057b704a6401a26"
+}
